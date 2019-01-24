@@ -3,7 +3,7 @@
 <html lang="cs" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>kok</title>
+    <title></title>
   </head>
   <body>
 <table>
